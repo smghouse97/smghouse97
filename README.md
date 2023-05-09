@@ -37,7 +37,7 @@
 ###     Tech Stack  
 <div align="center">  
  <a href="https://azure.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure" height="50" /></a>
- <a href="https://circleci.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/circleci/circleci-ar21.svg" alt="CircleCI" height="50" /></a>
+ <a href="https://circleci.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/circleci/circleci-icon.svg" alt="CircleCI" height="50" /></a>
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
