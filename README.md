@@ -12,7 +12,7 @@
 - 💬 Ask me about **DevOps, Linux-Ubuntu, Kubernetes, Docker, Ansible, Jenkins, CI/CD, Bash, Shell**
 - 📫 Reach out to me at **ghouseshadhik@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imran1509&label=Profile%20views&color=0e75b6&style=flat" alt="imran1509" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smghouse97&label=Profile%20views&color=0e75b6&style=flat" alt="smghouse97" /> </p>
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -26,8 +26,7 @@
 
 <h3 align="left">My Blogs:</h3>
 <p align="left">
-<a href="https://dev.to/@imransaifi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@imransaifi" height="30" width="40" /></a>
-<a href="https://hashnode.com/@imransaifi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@imransaifi" height="30" width="40" /></a>
+<a href="https://mdghousedevopsjourney.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@smghouse97" height="30" width="40" /></a>
 
 
 ## 💻 My Skill Set :  
@@ -41,8 +40,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
+<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>   
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
