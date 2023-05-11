@@ -16,6 +16,7 @@
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- Java Application with an Automated CI/CD Pipeline - https://mdghousedevopsjourney.hashnode.dev/java-application-with-an-automated-cicd-pipeline
 - Kubernetes K8's-Overview - https://mdghousedevopsjourney.hashnode.dev/kubernetes-k8s
 - Python application on CircleCI - https://mdghousedevopsjourney.hashnode.dev/python-application-on-circleci
 - 90 Days of Devops -https://mdghousedevopsjourney.hashnode.dev/series/90days-devops
